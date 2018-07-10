@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.1.0_065c56627a1b8e42eb9a141b35a7ff3a26a41f17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_bd8f5f03a64f1ad154ed5cc5ce01767bb102d793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_da5ec88b70b2c8e91d5bc43a789731850999b040.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_69640b2c8090ec3619549456817690710f14d179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_b9693c6a77e97cd8daccfc6025f19a5462acd3fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_100c3fa4f3f1d234634ec61e590d1b4be85fa3ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_be8d6ac844ba1160195f95226baac84d81a404af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_da5ec88b70b2c8e91d5bc43a789731850999b040.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.1.0_843e5fdb60ef53ed09493e5661915f2a3d8b8cd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.1.0_b72618040e7247f41a539b8315aa73ebc0bdd3ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.1.0_270395d3744242ef4824ca063032a844ee8782eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_332a6dabf1fd746f5a11c541f063b620af124ff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.airbnb.android/lottie/2.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23101721d7424c7748ca7e16ef5896e95d8c4694">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.airbnb.android-lottie-2.3.1_fed5b85852f1367a454ab7a3edb23ae7fc6d8b78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_be8d6ac844ba1160195f95226baac84d81a404af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_b9693c6a77e97cd8daccfc6025f19a5462acd3fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_abe0da37d08247ce3164a1e87e8591dc251ae0ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_e6fe9606dfba5e8c698977afc387f21273efb8bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_69640b2c8090ec3619549456817690710f14d179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_bd8f5f03a64f1ad154ed5cc5ce01767bb102d793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_80ba190118dd304be01cda802c0b686d229c43df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_3ba987c3dcbb603e43a5bd071c7ca2e69552ab66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_abe0da37d08247ce3164a1e87e8591dc251ae0ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.1.0_9006fd79d2a9421778021cfc9348fd641278e271.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.1.0_86024711da33df1d2de98bcc529e3a6760377ffe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_dd4464a2ae8cc81a63e79706c778cb0fd674a0c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_c127447efa4fcdbd145357619baab04f47c13be8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_80ba190118dd304be01cda802c0b686d229c43df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_f7f5092c17cc05102cecacfc29692da2eadd00f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_1fdf7f7e29f6396e29ba6370efea7443de999ba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_dd4464a2ae8cc81a63e79706c778cb0fd674a0c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_d3f35b42445231b9ed5065e67973e7a694d32f8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_58b02f5b46c6bc3a63adb9b7520c9827917e89ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_0db2631c02858a3af61360b3ceb72d4798c967dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_9a82a2be014efb8bbcb4c58344848b6b00334807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.0_1e9ce45023a540c73aedf66b7692f4286e66725c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_9a82a2be014efb8bbcb4c58344848b6b00334807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_332a6dabf1fd746f5a11c541f063b620af124ff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_d3f35b42445231b9ed5065e67973e7a694d32f8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_0db2631c02858a3af61360b3ceb72d4798c967dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/crna/lottie-react-native/unspecified/release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14de2f7e074c0d5dcdfc0649458ade28f838a883">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/lottie-react-native-unspecified-release_4a893da2ea3ec3273b7897b00c11eae7d6c9e4ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_e6fe9606dfba5e8c698977afc387f21273efb8bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_f7f5092c17cc05102cecacfc29692da2eadd00f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_1fdf7f7e29f6396e29ba6370efea7443de999ba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.1.0_859fed37a389fe58a28f06e5b51463499854b7c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.1.0_7d6b01873eec7f980b59603f71852942b20b566f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_100c3fa4f3f1d234634ec61e590d1b4be85fa3ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e8385c90d0b44a0e179161a337f593c4d8aa8f86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e8385c90d0b44a0e179161a337f593c4d8aa8f86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/avanest/Projects/crna/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/avanest/Projects/crna/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.1.0_361a252c17b74d87d5bb3996810d9fc81f08b592.jar" />
+    </item>
+
+</items>
